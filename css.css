@@ -1,10 +1,12 @@
 body {
+    position: relative;
     margin: 0;
     padding: 0;
     background: #000;
 }
 
 div {
-    float: left;
-    font-family: monospace;
+    position: absolute;
+    left: 0;
+    top: 0;
 }
