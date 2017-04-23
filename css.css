@@ -3,3 +3,8 @@ body {
     padding: 0;
     background: #000;
 }
+
+div {
+    float: left;
+    font-family: monospace;
+}
