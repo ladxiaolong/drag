@@ -1,4 +1,5 @@
 drag('div1');
+drag('div2');
 
 function drag(id) {
     var obj = document.getElementById(id);
